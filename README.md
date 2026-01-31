@@ -7,7 +7,7 @@ I am IT intern and this area is to show my journey and personal projects.
 Information Systems student, focused on software development and with a strong interest in creating software and web applications. I have knowledge of MongoDB, Node.js, and SQL, acquired through personal and academic projects. I am familiar with REST APIs, code versioning, and good programming practices. Currently, I work as a Young IT Apprentice at Monte Rodovias, where I develop practical skills in support and infrastructure. With B2 level English, I constantly seek to update my knowledge through international documentation and global communities, aiming to advance in the Development area.
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [My Portfolio](http://https://filipecezar00.github.io/Portfolio-Atualizado/)
+* 🖥️  See my portfolio at [My Portfolio](http://filipecezar00.github.io/Portfolio-Atualizado/)
 * ✉️  You can contact me at [filipecezarfonseca@gmail.com](mailto:filipecezarfonseca@gmail.com)
 * 🧠  I'm currently learning Node Js and Express Js
 * 👥  I'm looking to collaborate on Software Developing
