@@ -5,7 +5,7 @@ I am an IT intern, and this space showcases my journey and personal projects.
 
 Information Systems student focused on software development, with a strong interest in building web applications. I have experience with MongoDB, Node.js, and SQL through academic and personal projects.
 
-Currently working as a Young IT Apprentice at Monte Rodovias, developing practical skills in support and infrastructure.
+Currently working as a Young IT Apprentice at Monte Rodovias, developing practical skills in support, infrastructure and software development.
 
 - 🌍 Based in Brazil  
 - 🖥️ Portfolio: [My Portfolio](http://filipecezar00.github.io/Portfolio-Atualizado/)  
